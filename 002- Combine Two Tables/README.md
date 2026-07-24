@@ -4,7 +4,7 @@
 
 **Problem Number:** 175
 
-**Difficulty:** Easy
+**Difficulty:** Easy.
 
 ---
 
